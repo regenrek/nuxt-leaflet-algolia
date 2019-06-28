@@ -1,6 +1,7 @@
-# nuxt-leaflet-algolia
+# NuxtJS + Leaflet + Algolia Geosearch
 
-
+Tutorial on my [blog](http://regenrek.com/posts/how-to-build-a-breakfast-restaurant-locator-with-nuxtjs-and-algolia-search/)
+[Codesandbox Demo with vue](https://codesandbox.io/s/algolia-vue-instantsearch-v3-geosearch-updated-eqgwy)
 
 ## Build Setup
 
