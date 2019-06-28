@@ -1,6 +1,6 @@
 # nuxt-leaflet-algolia
 
-> My cat&#39;s meow Nuxt.js project
+
 
 ## Build Setup
 
